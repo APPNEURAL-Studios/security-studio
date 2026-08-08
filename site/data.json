@@ -1,0 +1,98 @@
+{
+  "slug": "security-studio",
+  "host": "security",
+  "title": "Security Studio",
+  "tagline": "Access control, compliance and audit logs",
+  "description": "Configure roles, permissions, and access policies, plus SSO and MFA rules. Manage secrets, audit logs, and compliance checklists, track vulnerabilities and incidents, set data retention and encryption policies, and configure privacy consent.",
+  "editors": [
+    {
+      "category": "Security & Compliance Editors",
+      "name": "Role & Permission Editor",
+      "desc": "RBAC role and permission configuration"
+    },
+    {
+      "category": "Security & Compliance Editors",
+      "name": "Access Policy Editor",
+      "desc": "Resource access rule definition"
+    },
+    {
+      "category": "Security & Compliance Editors",
+      "name": "Audit Log Editor",
+      "desc": "Activity log review and configuration"
+    },
+    {
+      "category": "Security & Compliance Editors",
+      "name": "Compliance Checklist Editor",
+      "desc": "Regulatory compliance tracking"
+    },
+    {
+      "category": "Security & Compliance Editors",
+      "name": "Secrets Manager Editor",
+      "desc": "API key and credential vaulting"
+    },
+    {
+      "category": "Security & Compliance Editors",
+      "name": "SSO Configuration Editor",
+      "desc": "Single sign-on setup"
+    },
+    {
+      "category": "Security & Compliance Editors",
+      "name": "MFA Policy Editor",
+      "desc": "Multi-factor authentication rules"
+    },
+    {
+      "category": "Security & Compliance Editors",
+      "name": "Data Retention Editor",
+      "desc": "Data lifecycle and retention policies"
+    },
+    {
+      "category": "Security & Compliance Editors",
+      "name": "Vulnerability Tracker Editor",
+      "desc": "Security issue tracking"
+    },
+    {
+      "category": "Security & Compliance Editors",
+      "name": "Incident Response Editor",
+      "desc": "Security incident playbook builder"
+    },
+    {
+      "category": "Security & Compliance Editors",
+      "name": "IP Allowlist Editor",
+      "desc": "Network access restriction rules"
+    },
+    {
+      "category": "Security & Compliance Editors",
+      "name": "Encryption Policy Editor",
+      "desc": "Data encryption standard configuration"
+    },
+    {
+      "category": "Security & Compliance Editors",
+      "name": "Session Policy Editor",
+      "desc": "Login session timeout rules"
+    },
+    {
+      "category": "Security & Compliance Editors",
+      "name": "Privacy Consent Editor",
+      "desc": "Cookie/consent banner configuration"
+    },
+    {
+      "category": "Security & Compliance Editors",
+      "name": "Penetration Test Report Editor",
+      "desc": "Security test findings documentation"
+    }
+  ],
+  "services": [
+    [
+      "verification",
+      "new"
+    ],
+    [
+      "model",
+      "core"
+    ],
+    [
+      "automation",
+      "core"
+    ]
+  ]
+}
